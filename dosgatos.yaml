@@ -1,0 +1,21 @@
+
+---
+
+## ✨ Features
+
+- 🏗️ **Multi-page design** – Home, About, Services, Portfolio, Contact  
+- 📱 **Fully responsive** – Optimised for desktop, tablet, and mobile  
+- 🎨 **Custom branding** – Uses Dos Gatos Web Design’s colour palette  
+- 📍 **Sticky navigation bar** – Always accessible while scrolling  
+- 🧰 **Easy to customise** – Clean, semantic HTML and organised CSS  
+- 📬 **HTML contact form** – Simple and ready to connect to a backend or email handler
+
+---
+
+## 🚀 Getting Started
+
+To run this site locally or deploy it on GitHub Pages:
+
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/<your-username>/dosgatos-web.git
